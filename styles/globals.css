@@ -623,7 +623,7 @@ margin-top: 160px;
   }
   .hero-banner-image{
     width: 77%;
-    height: 62%;
+    height: auto;
     top: -2%;
     right: -6%;
   }
